@@ -1,0 +1,5 @@
+Model Processor:CPU1, CPU2, CPU3
+Model Plata:MB1, MB2, MB3
+DDR:RAM1, RAM2
+HDD:SSD1, SSD2
+Video card:GA1, GA2
